@@ -110,121 +110,121 @@ main {
 
 .background {
   position: absolute;
-  width: 2500px;
-  top: calc(50% - 50px);
+  width: 130.208%;
+  top: calc(50% - 4.629%);
   left: calc(50%);
   z-index: 1;
 }
 
 .m7 {
   position: absolute;
-  width: 1239px;
-  top: calc(50% + 80px + 100px);
-  left: calc(50% - 370px - 75px);
+  width: 64.531%;
+  top: calc(50% + 16.666%);
+  left: calc(50% - 15.364%);
   z-index: 2;
 }
 
 .m7fog {
   position: absolute;
-  width: 600px;
-  top: calc(50% + 20px + 100px);
-  left: calc(50% - 420px - 75px);
+  width: 31.25%;
+  top: calc(50% + 11.11%);
+  left: calc(50% - 17.968%);
   z-index: 3;
 }
 
 .m6 {
   position: absolute;
-  width: 1500px;
-  top: calc(50% + 150px);
-  left: calc(50% + 740px - 200px);
+  width: 78.125%;
+  top: calc(50% + 13.888%);
+  left: calc(50% + 28.125%);
   z-index: 1;
 }
 
 .m6fog {
   position: absolute;
-  width: 1000px;
-  top: calc(50% - 150px + 150px);
-  left: calc(50% + 800px - 200px);
+  width: 52.083%;
+  top: 50%;
+  left: calc(50% + 31.25%);
   z-index: 5;
 }
 
 .m5 {
   position: absolute;
-  width: 1000px;
-  top: calc(50% + 200px + 70px);
-  left: calc(50% + 400px);
+  width: 52.083%;
+  top: calc(50% + 25%);
+  left: calc(50% + 20.833%);
   z-index: 6;
 }
 
 .m5fog {
   position: absolute;
-  width: 500px;
-  top: calc(50% + 100px + 70px);
-  left: calc(50% + 400px);
+  width: 26.041%;
+  top: calc(50% + 15.74%);
+  left: calc(50% + 20.833%);
   z-index: 7;
 }
 
 .m4 {
   position: absolute;
-  width: 500px;
-  top: calc(50% + 250px - 30px);
-  left: calc(50% + 100px - 100px);
+  width: 26.041%;
+  top: calc(50% + 20.37%);
+  left: calc(50%);
   z-index: 6;
 }
 
 .m4fog {
   position: absolute;
-  width: 500px;
-  top: calc(50% + 200px - 30px);
-  left: calc(50% + 75px - 100px);
+  width: 26.041%;
+  top: calc(50% + 15.74%);
+  left: calc(50% - 1.302%);
   z-index: 7;
 }
 
 .m3 {
   position: absolute;
-  width: 750px;
-  top: calc(50% + 250px);
-  left: calc(50% + 600px + 50px);
+  width: 38.541%;
+  top: calc(50% + 23.148%);
+  left: calc(50% + 33.854%);
   z-index: 8;
 }
 
 .m3fog {
   position: absolute;
-  width: 700px;
-  top: calc(50% + 150px);
-  left: calc(50% + 620px + 100px);
+  width: 36.458%;
+  top: calc(50% + 13.888%);
+  left: calc(50% + 37.5%);
   z-index: 9;
 }
 
 .m2 {
   position: absolute;
-  height: 1000px;
-  top: calc(50% - 100px);
-  left: calc(50% - 720px - 150px);
+  height: 92.592%;
+  top: calc(50% - 9.259%);
+  left: calc(50% - 45.3125%);
   z-index: 10;
 }
 
 .m2fog {
   position: absolute;
-  height: 1000px;
-  top: calc(50% - 120px);
-  left: calc(50% - 650px);
+  height: 92.592%;
+  top: calc(50% - 11.1111%);
+  left: calc(50% - 40.8541%);
   z-index: 11;
 }
 
 .m1 {
   position: absolute;
-  width: 950px;
-  top: calc(50% + 120px);
-  left: calc(50% - 550px);
+  width: 49.479%;
+  top: calc(50% + 11.1111%);
+  left: calc(50% - 28.6458%);
   z-index: 12;
 }
 
 .m1fog {
   position: absolute;
-  width: 950px;
-  top: calc(50% + 150px);
-  left: calc(50% - 550px);
+  width: 49.479%;
+  top: calc(50% + 13.888%);
+  left: calc(50% - 30.6458%);
   z-index: 13;
 }
 
@@ -249,15 +249,15 @@ main {
 
 .sunrays {
   position: absolute;
-  width: 2100px;
-  top: calc(50% - 50px);
+  width: 109.375%;
+  top: calc(50% - 4.629%);
   left: calc(50%);
   z-index: 16;
 }
 
 .title {
   position: absolute;
-  top: calc(50% - 230px);
+  top: calc(50% - 21.296%);
   left: calc(50%);
   color: #000000;
   z-index: 7;
@@ -293,13 +293,6 @@ main {
     rgba(0, 0, 0, 0) 65%,
     rgba(0, 0, 0, 0.7)
   );
-}
-
-.cloud {
-  position: absolute;
-  height: calc(100vh + 100px);
-  width: 100vw;
-  z-index: 21;
 }
 
 .parallax {
