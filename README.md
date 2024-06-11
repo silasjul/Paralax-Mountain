@@ -4,7 +4,8 @@ learning about animations, moving pictures based on mouse position
 Editing images in photoshop and drawing clouds
 
 It doesnt seem to work on all browsers, but here is waht it is suposed to look like:
-https://github.com/silasjul/Paralax-Mountain/assets/59296393/a42b9abb-f1ca-43fc-8e60-3858d7d4f776
+
+
 
 
 
